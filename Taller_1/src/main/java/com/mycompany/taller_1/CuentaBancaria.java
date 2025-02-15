@@ -14,9 +14,9 @@ public class CuentaBancaria {
     String tipoCuenta;
     int saldo;
     public CuentaBancaria(){
-        numeroCuenta="1234567890";
-        tipoCuenta="ahorro";
-        saldo=4578;
+        this.numeroCuenta="1234567890";
+        this.tipoCuenta="ahorro";
+        this.saldo=4578;
            
     }
 
